@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgenciaViagensOOP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80a95aab48d34984918bec301a7e3782e27e36d9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26235e549477a7b706f7f5a3550a0b0412579040")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgenciaViagensOOP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgenciaViagensOOP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
